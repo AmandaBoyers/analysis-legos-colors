@@ -1,5 +1,8 @@
 # Import libraries:
-import pandas as pd, seaborn as sns, matplotlib.pyplot as plt
+import pandas as pd, seaborn as sns
+import matplotlib
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
 
 # Define the data frame:
 pairs = [[34, 5], [108, 17], [64, 11], [88, 8], [99, 14], [51, 5]]
