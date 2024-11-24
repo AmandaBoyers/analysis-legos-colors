@@ -34,6 +34,10 @@ This project analyzes LEGO datasets using various data processing and visualizat
 
 #### The data for this exploration comes from [Rebrickable](https://rebrickable.com/downloads/) which is a website that uses the lego datasets to show you which LEGO Sets you can build from the sets and parts you own.  The data is updated daily. The relational datasets available for download include themes, a color index, part_categories, parts, sets, minifigs, inventories, inventory_parts, inventory_sets, inventory_minifigs and a visual schema showing how the datasets connect to each other.  This exploration merges four datasets: the color index, inventories, inventory parts and sets.
 
+## Data loading and preprocessing
+
+#### The datasets were loaded using Pandas. The sets.csv contains set_num, name of the set, year, theme_id and the number of parts. Each set contains inventories, which consist of parts. (So, an inventory is like a bag of parts.) Each set can contain many inventories and each of those inventories can contain many parts. The data set inventory_parts has details on parts such as the part_num, color_id and quantity. The colors dataset is a color index that contains over 200 different colors. By merging sets, inventories, inventory_parts and colors we get a list of all parts, their colors, what sets they are part of, image urls for sets and parts and the year for each set.¶
+
 ## Data limitations
 
 #### The data represents a catalog of what LEGO has produced in the past.  While we can get a sense of what was popular by what LEGO choose to create in any given year, we do not have sales data.  A sudden upward trend and then reduction the next year might suggest LEGO tried something new that didn't work, but without the sales data we only know what was created any given year.  For example, the data only tells us when a set was introduced, not how long it was in production or how successful it was in terms of sales.
