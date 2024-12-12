@@ -19,6 +19,7 @@ This project analyzes how LEGO colors have changed over time using various data 
 ## Requirements
 
 - Python 3.x
+- jupyter
 - matplotlib
 - numpy
 - pandas
@@ -72,7 +73,7 @@ This project analyzes how LEGO colors have changed over time using various data 
 
         jupyter notebook LEGO_Datasets.ipynb
 
-License
+## License
 
 This project is licensed under the MIT License.
 
