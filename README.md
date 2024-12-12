@@ -1,6 +1,19 @@
 # LEGO Datasets
 
-This project analyzes LEGO datasets using various data processing and visualization techniques.
+# LEGO color exploration: How have LEGO piece colors changed since 1949?
+
+This project analyzes how LEGO colors have changed over time using various data processing and visualization techniques.
+
+![LEGOs Then and Now](images/ThenNow.png)
+
+## Table of Contents
+- [Requirements](#requirements)
+- [LEGO color exploration: How have LEGO piece colors changed since 1949?](#lego-color-exploration-how-have-lego-piece-colors-changed-since-1949)
+- [This notebook explores the following](#this-notebook-explores-the-following)
+- [Other ideas for the LEGO data set](#other-ideas-for-the-lego-data-set)
+- [Data source](#data-source)
+- [Data loading and preprocessing](#data-loading-and-preprocessing)
+- [Data limitations](#data-limitations)
 
 ## Requirements
 
