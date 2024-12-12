@@ -76,6 +76,6 @@ License
 
 This project is licensed under the MIT License.
 
-<div align="center">
-    ![LEGOs Then and Now](images/RetroRollerSkateSet.png)
-</div>
+<p align="center">
+    <img src="images/RetroRollerSkateSet.png" alt="LEGOs Then and Now" width="50%">
+</p>
