@@ -76,8 +76,6 @@ License
 
 This project is licensed under the MIT License.
 
-<div style="text-align: center;">
-    <img src="images/RetroRollerSkateSet.png" alt="LEGOs Then and Now" style="width:50%;">
+<div align="center">
+    ![LEGOs Then and Now](images/RetroRollerSkateSet.png)
 </div>
-
-                         LEGO Retro Roller Skate Set- 2024
