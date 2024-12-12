@@ -65,7 +65,7 @@ This project analyzes how LEGO colors have changed over time using various data 
 
 2. Navigate to the project directory:
 
-    cd repository
+        cd repository
 
 3. Install the required packages:
 
