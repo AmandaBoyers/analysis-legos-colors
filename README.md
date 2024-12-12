@@ -5,6 +5,7 @@
 This project analyzes how LEGO colors have changed over time using various data processing and visualization techniques.
 
 ![LEGOs Then and Now](images/ThenNow.png)
+![LEGO Roller Skate](images/RetroRollerSkateSet.png)
 
 ## Table of Contents
 - [Requirements](#requirements)
