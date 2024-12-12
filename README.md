@@ -76,4 +76,4 @@ License
 
 This project is licensed under the MIT License.
 
-![LEGO Roller Skate](images/RetroRollerSkateSet.png)
+<img src="images/RetroRollerSkateSet.png" alt="LEGOs Then and Now" style="width:50%;">
