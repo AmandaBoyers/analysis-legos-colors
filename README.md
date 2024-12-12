@@ -64,9 +64,11 @@ This project analyzes how LEGO colors have changed over time using various data 
    git clone https://github.com/AmandaBoyers/Project.git
 
 2. Navigate to the project directory:
+
     cd repository
 
 3. Install the required packages:
+
         pip install -r requirements.txt
 
 4. Run the Jupyter Notebook:
